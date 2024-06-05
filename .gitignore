@@ -1,0 +1,7 @@
+# Ignorar archivos zip y tar grandes
+*.zip
+*.tar
+
+
+
+
